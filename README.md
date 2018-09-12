@@ -1,22 +1,27 @@
 # DVCS-Exercise
 
-1.Under which menu item is the Show in Explorer option. ____Repository________________________
-2.Under which menu item can you Add or Clone repositories. __File__________________________
-3.Under which menu item can you open your Command Prompt. ____________________________
+1.Under which menu item is the Show in Explorer option. Repository
+
+2.Under which menu item can you Add or Clone repositories. File
+
+3.Under which menu item can you open your Command Prompt. 
+
 4.List the four views that you can change to under View. Changes, History, Repository List, Branches List
+
 5.List the two items you can edit under Repository → Repository settings ... Privacy and Name
-6.A remote repository is _____A code repository that is not on your local computer.___.
 
-7.A local repository is ____A code repository that is on your local computer.____.
+6.A remote repository is A code repository that is not on your local computer.
 
-8.The remote repository that you synchronize with referred to as ___clone______.
+7.A local repository is A code repository that is on your local computer.
 
-9.When you make a local copy of a GitHub repository, you are effectively ___forking___ that repository.
+8.The remote repository that you synchronize with referred to as clone.
+
+9.When you make a local copy of a GitHub repository, you are effectively forking that repository.
 
 10.What is the order of Git tasks that are done when performing a sync in GitHub Desktop?
 fetch, merge, push
 
-11.The git pull command is equivalent to __git pull and then git fetch_____.
+11.The git pull command is equivalent to git pull and then git fetch.
 
 12.Which command is used to create a git repository?
 git clone
